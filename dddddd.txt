@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-sssss
-#gu  2025,10,13 添加
-XXXX
-=======
-XXXXXX
->>>>>>> 34e21bfe597ba697a35513b44387b968185b893b
+XXXXXX  #gu
+
